@@ -1,0 +1,22 @@
+:root {
+    
+}
+
+/* RESPONSIVE */
+@media screen and (max-width: 360px) {
+}
+
+/* ADAPTIVE ON MOBILES */
+@media screen and (min-width: 360px) and (max-width: 767px) {
+ 
+}
+
+/* ADAPTIVE ON TABLETS */
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+ 
+}
+
+/* ADAPTIVE ON LAPTOPS AND COMPUTERS*/
+@media screen and (min-width: 1440px) {
+ 
+}
